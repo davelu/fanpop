@@ -1,0 +1,12 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo:400,700);
+
+$body-bg:		#fff;
+$brand-primary: #00aeef;
+$font-family-sans-serif: 'Arvo', Helvetica, Arial, sans-serif;
+$navbar-default-brand-color: #00aeef;
+$navbar-default-link-color: #00aeef;
+$grid-float-breakpoint: 1000px;
+
+@import 'bootstrap-sprockets';
+@import 'bootstrap';
+

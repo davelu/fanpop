@@ -1,0 +1,199 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: 'Arvo', 'Helvetica Neue', Arial, sans-serif;
+  background-color: #FFFFFF;
+  font-size: 14px;
+  line-height: 1.428571429;
+}
+
+a.bluelink {
+     color: #00aeef;
+}
+a.bluelink:hover {
+     text-decoration: none;
+     background-color: transparent;
+}
+ 
+a.bluelink:visited {
+     color: #00aeef;
+}
+
+img {
+          display: block;
+          height: auto;
+          max-width: 100%;
+   }
+
+
+.center {
+		text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.wide {
+  width:100%;
+  height:200px;
+  background-image:url('http://www.davelu.com/upstay/andaz.jpg');
+  background-size:cover;
+}
+
+.wide img {
+  width:100%;
+}
+
+.logo {
+  color:#fff;
+  font-weight:800;
+  font-size:14pt;
+  padding:25px;
+  text-align:center;
+}
+
+.logo-text {
+  font-weight:bold;
+  font-size:10pt;
+  padding:25px;
+  text-align:center;
+}
+
+.line {
+  padding-top:17px;
+  white-space:no-wrap;
+  overflow:hidden;
+  text-align:center;
+}
+
+.media-heading {
+	font-weight: bold;
+}
+
+.media-object {
+	width: 300px;
+}
+
+.color-text {
+	color: #00aeef;
+}
+
+.big-text {
+	font-size: 20px;
+}
+
+.total-stay {
+	color: #00aeef;
+	font-size: 18px;
+}
+
+.current-offer {
+	color: #fff;
+	margin: 10px;
+	padding: 10px;
+	background-color: #696969;
+}
+
+.other-offer {
+	margin: 10px;
+	padding: 10px;
+	border: solid 1px #dcdcdc;
+}
+
+.gain {
+	color: green;
+	font-weight: bold;
+}
+
+.lose {
+	color: red;
+	font-weight: bold;
+}
+
+.hotel-title {
+	background-color: #696969;
+}
+
+.hotel-name {
+	font-size: 20px;
+	font-weight: 700;
+	color: #fff;
+}
+
+.hotel-description {
+	margin: 5px 0px 5px 0px;
+}	
+
+.reviews {
+	margin: 10px 0px 15px 15px;
+}
+
+.total {
+	background-color: #e18a0d;
+	color: #fff;
+}
+
+.current {
+	background-color: #00aeef;
+	color: #fff;
+}
+
+.savings {
+	color: #32d93a;
+}
+
+.btn-accept {
+	background-color: #000;
+	color: #fff;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.offer-details {
+	background-color: #dcdcdc;
+}
+
+.offer-highlights {
+	margin-top: 15px;
+}
+
+.circle {
+	border-radius: 50%;
+	width: 50px;
+	height: 50px; 
+	background-color: green;
+	border: 2px solid white;
+	text-align: center;
+	color: white;
+	padding: 5px 3px 0 3px;
+	font-size: 30px;	
+}
+
+.activity {
+	margin: 5px 0 5px 0;
+}
+
+.margin {
+	margin: 20px 0 20px 0;
+}
+
+.form-margin {
+	margin: 0 5px 0 5px;
+}
+
+.border-top {
+	border-top-width: 1px;
+	border-top-style:solid;
+	border-top-color: #ccc;	
+}
+
+.center {
+	text-align: center;
+}
+
+#footer {
+	padding-top: 10px;
+	background-color: #ededed;
+}

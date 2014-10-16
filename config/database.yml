@@ -1,0 +1,14 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: fanpop_development
+  pool: 5
+  username: davelu
+  host: localhost
+
+test:
+  adapter: postgresql
+  encoding: utf8
+  database: fanpop_test
+  pool: 5
+  username: davelu
